@@ -1,0 +1,14 @@
+/Users/nat/RiderProjects/ProgrammingChallenges/ProgrammingChallenges/obj/Debug/net8.0/ProgrammingChallenges.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nat/RiderProjects/ProgrammingChallenges/ProgrammingChallenges/obj/Debug/net8.0/ProgrammingChallenges.AssemblyInfoInputs.cache
+/Users/nat/RiderProjects/ProgrammingChallenges/ProgrammingChallenges/obj/Debug/net8.0/ProgrammingChallenges.AssemblyInfo.cs
+/Users/nat/RiderProjects/ProgrammingChallenges/ProgrammingChallenges/obj/Debug/net8.0/ProgrammingChallenges.csproj.CoreCompileInputs.cache
+/Users/nat/RiderProjects/ProgrammingChallenges/ProgrammingChallenges/bin/Debug/net8.0/ProgrammingChallenges
+/Users/nat/RiderProjects/ProgrammingChallenges/ProgrammingChallenges/bin/Debug/net8.0/ProgrammingChallenges.deps.json
+/Users/nat/RiderProjects/ProgrammingChallenges/ProgrammingChallenges/bin/Debug/net8.0/ProgrammingChallenges.runtimeconfig.json
+/Users/nat/RiderProjects/ProgrammingChallenges/ProgrammingChallenges/bin/Debug/net8.0/ProgrammingChallenges.dll
+/Users/nat/RiderProjects/ProgrammingChallenges/ProgrammingChallenges/bin/Debug/net8.0/ProgrammingChallenges.pdb
+/Users/nat/RiderProjects/ProgrammingChallenges/ProgrammingChallenges/obj/Debug/net8.0/ProgrammingChallenges.dll
+/Users/nat/RiderProjects/ProgrammingChallenges/ProgrammingChallenges/obj/Debug/net8.0/refint/ProgrammingChallenges.dll
+/Users/nat/RiderProjects/ProgrammingChallenges/ProgrammingChallenges/obj/Debug/net8.0/ProgrammingChallenges.pdb
+/Users/nat/RiderProjects/ProgrammingChallenges/ProgrammingChallenges/obj/Debug/net8.0/ProgrammingChallenges.genruntimeconfig.cache
+/Users/nat/RiderProjects/ProgrammingChallenges/ProgrammingChallenges/obj/Debug/net8.0/ref/ProgrammingChallenges.dll
